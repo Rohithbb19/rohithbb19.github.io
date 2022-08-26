@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+  }
